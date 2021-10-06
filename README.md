@@ -32,3 +32,13 @@ Interesting results by the paper and make it clear.(1p)
 Note: You can write in English or Chinese, but writing in English is easier to get a high score
 ```
 
+## Reference
+
+> A game-theoretic analysis of networked system control for common-pool resource management using multi-agent reinforcement learning
+
+Arnu Pretorius, Scott Cameron, Elan van Biljon, Tom Makkink, Shahil Mawjee, Jeremy du Plessis, Jonathan Shock, Alexandre Laterre, Karim Beguir
+
+https://arxiv.org/abs/2010.07777
+
+Comments: 17 pages, 16 Figures, to appear in Advances of Neural Information Processing Systems (NeurIPS) conference, 2020
+Subjects: Machine Learning (cs.LG); Computer Science and Game Theory (cs.GT); Multiagent Systems (cs.MA)
