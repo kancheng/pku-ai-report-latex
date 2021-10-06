@@ -5,10 +5,13 @@ The reading paper on something in artificial intelligence.
 
 ## Tasks
 
-用於英文報告課上的 LaTeX 模板。
+用於人工智慧課上，進行英文報告的 LaTeX 模板。
 
 ## Details
 
+老師要求如下 :
+
+```
 Read one of papers about Agent(5p), Search(5p), Markov decision processes(5p), Bayesian Network(5p), Reinforcement Learning(5p) from Oral papers published in NeurIPS, ICML, ICLR, CVPR, CVPR, ICCV, ECCV in the past three years. 
 
 You are then required to finish the following question:
@@ -27,3 +30,5 @@ Please make the comments very concrete based on facts (e.g. list relevant citati
 Interesting results by the paper and make it clear.(1p)
 
 Note: You can write in English or Chinese, but writing in English is easier to get a high score
+```
+
